@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "news_app",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/Flutter-Beginners-Projects-main/Flutter-Beginners-Projects-main/news_app/assets"
+		}
+	]
+}
